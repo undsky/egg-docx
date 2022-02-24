@@ -1,7 +1,7 @@
 {
   "name": "egg-docx",
-  "version": "3.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "docx plugin for egg",
   "eggPlugin": {
     "name": "docx"
   },
@@ -14,7 +14,6 @@
     "pptx"
   ],
   "dependencies": {
-    "bytenode": "^1.3.4",
     "docxtemplater": "^3.27.2",
     "docxtemplater-image-module-free": "^1.1.1",
     "pizzip": "^3.1.1"
@@ -52,12 +51,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-docx.git"
+    "url": "git+https://github.com/undsky/egg-docx.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/undsky/egg-docx/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-docx#readme",
-  "author": "",
+  "homepage": "https://github.com/undsky/egg-docx#readme",
+  "author": "姜彦汐 https://www.undsky.com",
   "license": "MIT"
 }
