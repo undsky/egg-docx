@@ -1,7 +1,7 @@
 {
   "name": "egg-docx",
   "version": "1.0.0",
-  "description": "docx plugin for egg",
+  "description": "Egg plugin for docx",
   "eggPlugin": {
     "name": "docx"
   },

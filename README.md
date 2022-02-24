@@ -1,6 +1,6 @@
 # egg-docx
 
-> docx plugin for egg
+> Egg plugin for docx
 ## 安装
 
 ```bash
